@@ -4,11 +4,12 @@
 
 Welcome to my Github page! 
 
-I'm a cross-platform mobile app developer, specializing in Flutter and Xamarin. I currently work at Nexient. 
+I'm a mobile app developer, specializing in Flutter and iOS native development. I currently work at Nexient. 
 
 <p>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/swift/swift-ar21.svg"></code>
 <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Xamarin-logo.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></code>
